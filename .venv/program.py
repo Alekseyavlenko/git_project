@@ -1,6 +1,6 @@
 def main():
     print('My first git progra')
-    print('And I change it ery da')
+    print('And I change it every day')
     print('lllll')
 # https://github.com/Alekseyavlenko/git_project
 
